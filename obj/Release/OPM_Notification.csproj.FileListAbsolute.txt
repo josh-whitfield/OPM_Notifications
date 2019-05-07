@@ -1,0 +1,11 @@
+C:\Users\Josh\source\repos\OPM_Notification\bin\Release\OPM_Notification.exe.config
+C:\Users\Josh\source\repos\OPM_Notification\bin\Release\OPM_Notification.exe
+C:\Users\Josh\source\repos\OPM_Notification\bin\Release\OPM_Notification.pdb
+C:\Users\Josh\source\repos\OPM_Notification\bin\Release\HtmlAgilityPack.dll
+C:\Users\Josh\source\repos\OPM_Notification\bin\Release\HtmlAgilityPack.pdb
+C:\Users\Josh\source\repos\OPM_Notification\bin\Release\HtmlAgilityPack.xml
+C:\Users\Josh\source\repos\OPM_Notification\obj\Release\OPM_Notification.csprojAssemblyReference.cache
+C:\Users\Josh\source\repos\OPM_Notification\obj\Release\OPM_Notification.csproj.CoreCompileInputs.cache
+C:\Users\Josh\source\repos\OPM_Notification\obj\Release\OPM_Notification.csproj.CopyComplete
+C:\Users\Josh\source\repos\OPM_Notification\obj\Release\OPM_Notification.exe
+C:\Users\Josh\source\repos\OPM_Notification\obj\Release\OPM_Notification.pdb
